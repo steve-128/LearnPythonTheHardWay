@@ -9,6 +9,7 @@ txt = open(filename)
 print("Here's your file %r:" %filename)
 # print the file
 print(txt.read())
+filename.close()
 # print some texts
 print("Type the filename again:")
 # let file_again be a variable that reads user input and print some text 
@@ -17,3 +18,4 @@ file_again = input("> ")
 txt_again = open(file_again)
 # print the file
 print(txt_again.read())
+filename.close()
