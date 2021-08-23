@@ -9,9 +9,11 @@ print("If you do want that, hit RETURN.")
 input("?")
 
 print("Opening the file...")
+# 'w' means to open and write the file
 target = open(filename, 'w')
 
 print("Truncating the file. Goodbye!")
+# If the file is opened with 'w' mode then truncate has no use because it it basically overwriting the file again
 target.truncate()
 
 print("Now I'm going to ask you for three lines.")
