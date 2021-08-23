@@ -17,6 +17,7 @@ carpool_capacity = cars_driven * space_in_a_car
 # assigning an int to the variable average_passengers_per_car to represent the average passengers per car with dividing the passenger number by cars driven
 average_passengers_per_car = passengers / cars_driven
 
+# the car_pool_capacity is not defined
 
 print("There are", cars, "cars available.")
 print("There are only", drivers, "drivers available.")
