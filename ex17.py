@@ -18,3 +18,5 @@ in_file = open(from_file); indata = in_file.read(); out_file = open(to_file,'w')
 
 #out_file.close()
 #in_file.close()
+
+# output.close() is used to save whats written inside
