@@ -15,8 +15,6 @@ print(backslash_cat)
 print(fat_cat)
 print("\\\\\\\\\t\n\a\b\f")
 
-print("\'\'")
-
 #while True:
 #    for i in ["/","-","|","\\","|"]:
 #        print("%r\r" % i, end="`")
