@@ -33,5 +33,5 @@ a = formula(age, height,weight, iq)
 
 
 
-print("Formula + changed code:", a)
+print("studt drill 3:", a)
 print("That becomes: ", what, "Can you do it by hand?")
