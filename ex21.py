@@ -31,5 +31,7 @@ def formula(a,b,c,d):
 what = add(age,subtract(height,multiply(weight, divide(iq,2))))
 a = formula(age, height,weight, iq)
 
-print("Formula + changed code")
+
+
+print("Formula + changed code:", a)
 print("That becomes: ", what, "Can you do it by hand?")
