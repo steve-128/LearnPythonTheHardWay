@@ -31,7 +31,10 @@ def formula(a,b,c,d):
 what = add(age,subtract(height,multiply(weight, divide(iq,2))))
 a = formula(age, height,weight, iq)
 
-
-
-print("studt drill 3:", a)
+print("studt drill 3: ", a)
 print("That becomes: ", what, "Can you do it by hand?")
+
+ans = 0
+def simpleformula(a):
+    return a*10000000
+print("study drill 4: ",simpleformula(simpleformula(simpleformula(simpleformula(ans)))))
