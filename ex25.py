@@ -1,3 +1,4 @@
+# write functions that play around with string
 def break_words(stuff):
     """This function will break up works for us."""
     words= stuff.split(' ')

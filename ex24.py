@@ -1,3 +1,4 @@
+# write functions that play around with string
 print("Let's practice everything.")
 print('You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.')
 

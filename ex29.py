@@ -31,5 +31,6 @@ Study drill:
 1. if does to the code by seeing whether a statement is t or f
 2. So python knows where does the if statement ends
 3. it will not compile
-
+4. yes
+5. what's printed will be different too
 '''
