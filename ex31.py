@@ -1,3 +1,4 @@
+# more if, elif, else loops
 print("You enter a dark room with two doors. Do you go through door #1 or door #2 or door #3?")
 
 door = input("> ")
@@ -26,6 +27,7 @@ elif door == "2":
         print("Your body survives powered by a mind of jello. Good job!")
     else:
         print("The insanity rots your eyes into a pool of muck. Good job!")
+# Study drill
 elif door == "3":
     print("The end.")
 else:
