@@ -13,5 +13,5 @@ print("The animal at 4 is", animals[4])
 num = [1,2,3,4,5]
 for x in num:
     print(x, "is at index",x-1)
-
-# Study drill 2: 
+# Study drill 1: Cardinal Number tells how many things there are. Ordinal Number is the number that tells the position(such as 1st 2nd)
+# Study drill 2: it's a Cardinal Number because it tells that there are 2010 years instead of saying it's the 2009th year 
