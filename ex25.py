@@ -35,6 +35,7 @@ def print_first_and_last_sorted(sentence):
     print_first_word(words)
     print_last_word(words)
 
+#print_first_and_last_sorted("line 23-24 call the function to get the first word and print")
 """
 line 23-24 call the function to get the first word and print 
 line 25-26 call the function to get the last word and print
