@@ -30,6 +30,6 @@ len() size of
 ' '.joing() turn array into string with ' ' in between each index
 '#'.join(stuff[3:5]) combine index 3 and 4 with # 
 
-5. returns list of the attributes and methods of any object
-6.
+5. dir returns list of the attributes and methods of a class
+   
 '''
