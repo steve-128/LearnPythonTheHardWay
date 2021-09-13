@@ -11,5 +11,6 @@ print("enter your name: ", end="")
 name = input()
 print("Hi",name)
 
+# python raw input is a form of input that takes the argument in the form of a string
 # 6'2" single quote needs to be escaped because %r will put the values in single qutation 
 # without the \ to escape the ', the string will end right after 6

@@ -29,3 +29,5 @@ e = "a string with a right side."
 # print the variable w and e together by combining them
 # by adding w and e, it makes a longer string because it combines them
 print(w + e)
+
+#sting put inside a string at line 4 10 16 18
